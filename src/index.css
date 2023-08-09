@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        background: linear-gradient(to left, #8e9eab, #eef2f3);
+    }
+}
